@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=mhankbarbar" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=mhankbarbar" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=Vai838" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=Vai838" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -26,10 +26,10 @@
   <a href="https://discord.com/users/807066456310546442" target="_blank">
     <img src="https://img.icons8.com/?size=52&id=D2NqKl85S8Ye&format=png" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/joydazo" target="_blank">
+  <a href="https://www.instagram.com/vaishnav_sankar.k" target="_blank">
     <img src="https://img.icons8.com/?size=52&id=nj0Uj45LGUYh&format=png" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/@mhankbarbar" target="_blank">
+  <a href="https://www.facebook.com/@vaishnav.sankarkeloth" target="_blank">
     <img src="https://img.icons8.com/?size=52&id=jZ0kw76QEzJU&format=png" alt="facebook logo"  />
   </a>
 </div>
@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mhankbarbar/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Vai838/count.svg?"  />
 </div>
 
 ###
