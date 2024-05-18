@@ -11,10 +11,14 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="30" width="42" alt="django logo"  />
-  <img src="https://img.icons8.com/?size=45&id=ewGOClUtmFX4&format=png" alt="flask logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-line.svg" height="30" width="42" alt="c logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" height="30" width="42" alt="Github"  />
+  <!img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gimp/gimp-original.svg" alt="Gimp"  />
+<!img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" alt="matplotlib"  />
+
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/latex/latex-original.svg" alt="LaTeX"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
