@@ -1,13 +1,7 @@
 <h2 align="center">Hi 👋</h2>
 
-###
+### 💻 Technical Skills :
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=Vai838" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=Vai838" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
@@ -23,6 +17,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
 </div>
+
+###
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=Vai838" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=Vai838" height="150" alt="languages graph"  />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vai838&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+###
+
 
 ###
 
@@ -42,6 +49,7 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Vai838/count.svg?"  />
+[![](https://visitcount.itsvg.in/api?id=hmjpgit&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 ###
