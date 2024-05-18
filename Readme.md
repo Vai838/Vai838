@@ -29,7 +29,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vai838&theme=dark&hide_border=true"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vai838&theme=nightowl&hide_border=false"  />
 </div>
 
 ### 🫂 Media handles:
