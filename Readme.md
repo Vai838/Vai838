@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋</h2>
+<h2 align="center">Hi there!👋</h2>
 
 ### 💻 Technical Skills :
 
@@ -29,7 +29,7 @@
 ###
 
 
-###
+###🫂 Media handles:
 
 <div align="center">
   <a href="https://discord.com/users/591631615000576030" target="_blank">
@@ -43,7 +43,7 @@
   </a>
 </div>
 
-###
+### Profile views:
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Vai838/count.svg?"  />
