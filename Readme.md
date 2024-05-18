@@ -27,7 +27,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=Vai838" height="150" alt="languages graph"  />
 </div>
 
-
+###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vai838&theme=dark&hide_border=true"  />
+</div>
 
 ### 🫂 Media handles:
 
@@ -49,10 +52,7 @@
   <img src="https://profile-counter.glitch.me/Vai838/count.svg?"  />
 </div>
 
-###
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vai838&theme=dark&hide_border=true"  />
-</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vai838&theme=dark&hide_border=true)<br/> 
+
+
 
