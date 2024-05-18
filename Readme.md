@@ -26,10 +26,10 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=Vai838" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=Vai838" height="150" alt="languages graph"  />
 </div>
-###
 
 
-###🫂 Media handles:
+
+### 🫂 Media handles:
 
 <div align="center">
   <a href="https://discord.com/users/591631615000576030" target="_blank">
@@ -45,11 +45,14 @@
 
 ### Profile views:
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/Vai838/count.svg?"  />
 </div>
 
 ###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vai838&theme=dark&hide_border=true"  />
+</div>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vai838&theme=dark&hide_border=true)<br/> 
-[![](https://visitcount.itsvg.in/api?id=Vai838&icon=0&color=0)](https://visitcount.itsvg.in)
+
