@@ -26,7 +26,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ###
-
+<!--
 ### 📊 GitHub Stats:
 
 <div align="center">
@@ -38,7 +38,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vai838&theme=nightowl&hide_border=false"  />
 </div>
-
+-->
 ### 🫂 Media handles:
 
 <div align="center">
